@@ -31,14 +31,14 @@ To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ````bash
+   ```bash
       git clone git@github.com:fredegd/squeeze-grid.git
       ```
       ```bash
    cd interactive-image-grid
-   ````
+   ```
 
-````
+
 
 
 2. Install the required dependencies:
